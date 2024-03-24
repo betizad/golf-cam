@@ -1,8 +1,8 @@
 import streamlit as st
 from streamlit_image_select import image_select
 
-
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide", page_title="Otelfingen Webcams")
+st.markdown("### Otelfingen Webcams")
 
 img = image_select(
     label="Select a webcam",

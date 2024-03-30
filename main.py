@@ -8,7 +8,7 @@ captions=[]
 
 location = st.sidebar.selectbox(
                               'Choose Location:',
-                              ('Otelfingen', 'Holzhäusern')
+                              ('Otelfingen', 'Holzhäusern', 'Winterberg')
                             )
 page_title=f"{location} Webcams"
 
@@ -27,6 +27,9 @@ elif location=="Holzhäusern":
         "https://www.golfparks.ch/Frontend/Sublayouts/Modules/ApplicationModules/Weather/Data/Web-Cams/Holzhaeusern/image02.jpg"
     ]
     captions=["Range", "Putting"]
+elif location=="Winterberg":
+    images = ["https://cam.golf-winterberg.ch:65443/record/current.jpg"]
+    captions = ["Cam"]
 else:
     pass
     

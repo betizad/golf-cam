@@ -20,7 +20,7 @@ if location=="Otelfingen":
         "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00004.jpg",
         "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00005.jpg",
     ]
-    captions=["Putting", "Range North", "Range Mats", "Chipping", "Eange South"]
+    captions=["Putting", "Range North", "Range Mats", "Chipping", "Range South"]
 elif location=="Holzhäusern":
     images=[
         "https://www.gkmb-webcams.de/Webcam-Holzhaeusern/image01.jpg",

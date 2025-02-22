@@ -14,17 +14,17 @@ page_title=f"{location} Webcams"
 
 if location=="Otelfingen":
     images=[
-        "https://www.golfparks.ch/Frontend/Sublayouts/Modules/ApplicationModules/Weather/Data/Web-Cams/Otelfingen/image-OF00001.jpg",
-        "https://www.golfparks.ch/Frontend/Sublayouts/Modules/ApplicationModules/Weather/Data/Web-Cams/Otelfingen/image-OF00002.jpg",
-        "https://www.golfparks.ch/Frontend/Sublayouts/Modules/ApplicationModules/Weather/Data/Web-Cams/Otelfingen/image-OF00003.jpg",
-        "https://www.golfparks.ch/Frontend/Sublayouts/Modules/ApplicationModules/Weather/Data/Web-Cams/Otelfingen/image-OF00004.jpg",
-        "https://www.golfparks.ch/Frontend/Sublayouts/Modules/ApplicationModules/Weather/Data/Web-Cams/Otelfingen/image-OF00005.jpg",
+        "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00001.jpg",
+        "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00002.jpg",
+        "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00003.jpg",
+        "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00004.jpg",
+        "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00005.jpg",
     ]
-    captions=["Cam Range Mats", "Cam2", "Cam3", "Cam Putting", "Cam5"]
+    captions=["Cam Putting", "Cam2", "Cam Range Mats", "Cam4", "Cam5"]
 elif location=="Holzhäusern":
     images=[
-        "https://www.golfparks.ch/Frontend/Sublayouts/Modules/ApplicationModules/Weather/Data/Web-Cams/Holzhaeusern/image01.jpg",
-        "https://www.golfparks.ch/Frontend/Sublayouts/Modules/ApplicationModules/Weather/Data/Web-Cams/Holzhaeusern/image02.jpg"
+        "https://www.gkmb-webcams.de/Webcam-Holzhaeusern/image01.jpg",
+        "https://www.gkmb-webcams.de/Webcam-Holzhaeusern/image02.jpg"
     ]
     captions=["Range", "Putting"]
 elif location=="Winterberg":

@@ -14,11 +14,11 @@ page_title=f"{location} Webcams"
 
 if location=="Otelfingen":
     images=[
+        "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00004.jpg",
+        "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00005.jpg",
         "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00001.jpg",
         "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00002.jpg",
         "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00003.jpg",
-        "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00004.jpg",
-        "https://www.gkmb-webcams.de/Webcam-Otelfingen/image-OF00005.jpg",
     ]
     captions=["Putting", "Range North", "Range Mats", "Chipping", "Range South"]
 elif location=="Holzhäusern":
